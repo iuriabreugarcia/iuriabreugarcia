@@ -113,14 +113,6 @@ Atuação envolvendo:
 
 # 🚀 Projetos e sistemas
 
-## 🔑 Chaves
-
-Sistema desenvolvido para gerenciamento relacionado a **chaves e controle operacional**.
-
-🌐 https://bacuridigital.com/chaves
-
----
-
 ## 🏢 Condominaria
 
 Sistema voltado para **gestão de condomínios**, reunindo funcionalidades para apoiar processos administrativos e operacionais.
@@ -146,6 +138,14 @@ Sistema desenvolvido para apoiar processos de **gestão de oficinas e serviços 
 ---
 
 # 🎮 Desenvolvimento de jogos
+
+## 🔑 Chaves
+
+Jogo inspirado na famosa série, com personagens remodelados como lutadores utilizando Ludo.ai.
+
+🌐 https://bacuridigital.com/chaves
+
+---
 
 Minha experiência com desenvolvimento de software também inclui **desenvolvimento de jogos**, ampliando a atuação para além dos sistemas corporativos tradicionais.
 
