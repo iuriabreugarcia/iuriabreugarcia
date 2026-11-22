@@ -2,6 +2,8 @@
 
 ### Analista de Sistemas | Desenvolvedor Full Stack | Dados & BI | Tecnologia e Negócios
 
+> Meu portfólio principal de desenvolvimento está no [GitHub @domgaga79](https://github.com/domgaga79).
+
 Sou **Analista de Sistemas e Desenvolvedor Full Stack**, com experiência em desenvolvimento de software, análise de sistemas, bancos de dados, integrações, sistemas corporativos, Business Intelligence e tecnologia aplicada a processos de negócio.
 
 Minha trajetória profissional reúne **desenvolvimento de sistemas, tecnologia, dados e experiência de negócio**, incluindo uma longa experiência no setor bancário e o desenvolvimento de soluções digitais por meio da **BACURI Digital**.
